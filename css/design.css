@@ -1,0 +1,71 @@
+body{
+	background-image: url("../images/abc.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #215b06;
+	border: 2px solid #215b06;
+	padding: 20px;
+}
+h1{
+	font-size: 30px;
+	font-weight: bolder;
+	font-family: Arial;
+}
+img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	border: 3px solid #215b06
+}
+h2{
+	font-family: Arial;
+}
+h2 a{
+	text-decoration: none;
+	color: #215b06;
+}
+h2 a:hover{
+	color: white;
+	border: 2px solid #215b06;
+	background: #398018;
+	border-radius: 8px;
+}
+.background{
+	background-color:#215b06 ;
+	color: white;
+	text-align: left;
+	font-family: Arial;
+	font-style: italic;
+}
+.left{
+	text-align: left;
+	font-family: Arial;
+	border-bottom: 3px solid;
+}
+ul li{
+	list-style-type: square;
+	text-align: left;
+	font-family: Arial;
+}
+table{
+	color: #215b06;
+	width: 100%;
+	border-collapse: collapse;
+	font-family: Arial;
+}
+thead{
+	background-color: #215b06;
+	color: white;
+}
+th{
+	padding: 10px;
+}
+ol li{
+	text-align: left;
+	font-family: Arial;
+}
+p{
+	text-align: justify;
+	font-family: Arial;
+}
